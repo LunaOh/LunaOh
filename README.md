@@ -1,8 +1,8 @@
 # Hi there 👋
 
-I'm a college student studying Data Science from South Korea.
+I'm a college student studying Data Science from South Korea.🖥
 
-### Skills
+### 💪Skills
 
 #### **Languages**
 
