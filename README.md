@@ -10,7 +10,7 @@ I'm a college student studying Data Science from South Korea.🖥
 
 #### **Tools**
 
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat-square&logo=Jupyter Notebook&logoColor=white"/>
 
 <!--
 **LunaOh/LunaOh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
