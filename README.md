@@ -1,10 +1,9 @@
-# Hi there 👋
+<div align=center> <h1> Hi there 👋 </h1></div>
 
-I'm a college student studying Data Science from South Korea.🖥
+<div align=center> <h3> I'm a college student studying Data Science from South Korea.🖥 </h3></div>
 
-### 💪Skills
 
-<div align=center><h1>📚 STACKS</h1></div>
+<div align=center><h1>💪 STACKS</h1></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/> <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <br>
